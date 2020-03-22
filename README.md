@@ -7,7 +7,7 @@ A Golang version of [Trojan](https://github.com/trojan-gfw/trojan)
 | | Trojan | Trojan-Go |
 |------|--------|-----------|
 | Language | C++ | Golang |
-| MySQL Authenticator | Y | N |
+| Default MySQL Authenticator | Y | N |
 
 ## Server
 
