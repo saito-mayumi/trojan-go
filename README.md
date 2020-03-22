@@ -8,7 +8,6 @@ A Golang version of [Trojan](https://github.com/trojan-gfw/trojan)
 |------|--------|-----------|
 | Language | C++ | Golang |
 | MySQL Authenticator | Y | N |
-| Reverse Proxy Required | Y | N |
 
 ## Server
 
